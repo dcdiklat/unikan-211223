@@ -1,0 +1,151 @@
+/* utilities */
+.btn {
+    background-color: #13ec91;
+    width: 150px;
+    height: 45;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+    border: 1px solid #13ec91;
+}
+
+.card {
+    width: 100%;
+}
+
+
+/* navbar */
+.navbar-brand img {
+    width: 120px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav .btn {
+    background-color: #13ec91;
+    width: 115px;
+    height: 45;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link {
+    margin-right: 20px;
+}
+
+/* navbar */
+
+/* hero */
+#hero img {
+    width: 100%;
+}
+
+
+
+/* hero */
+
+/* kelas */
+#kelas {
+    margin-top: 100px;
+}
+
+#kelas .cost {
+    margin-top: -10px;
+}
+
+/* kelas */
+
+/* testi */
+#testi {
+    margin-top: 100px;
+}
+
+/* testi */
+
+/* promo */
+#promo {
+    margin-top: 100px;
+}
+
+#promo img {
+    width: 100%;
+}
+
+/* promo */
+
+/* partner */
+#partner {
+    margin-top: 100px;
+}
+
+#partner img {
+    width: 100%;
+}
+
+/* partner */
+
+/* footer */
+footer {
+    background-color: #0e2734;
+    color: #fff;
+    margin-top: 100px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* footer */
+
+/* about */
+#about {
+    text-align: center;
+}
+#about img {
+    width: 50%;
+}
+#about .sosmed img {
+    width: 15%;
+}
+/* about */
+
+/* daftar */
+#daftar .container {
+    display: flex;
+    justify-content: center;
+}
+#daftar .btn {
+    margin: auto;
+}
+#daftar h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+#daftar p {
+    text-align: center;
+}
+/* daftar */
+
+/* login */
+#login .container {
+    display: flex;
+    justify-content: center;
+}
+#login .btn {
+    margin: auto;
+}
+#login h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+#login p {
+    text-align: center;
+}
+/* login */
